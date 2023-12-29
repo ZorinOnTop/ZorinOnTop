@@ -8,4 +8,4 @@
 
 ***
 
-![simswaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=simswaper&show_icons=true&theme=radical&local=pl)
+![simswaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=simswaper&show_icons=true&theme=radical&locale=pl)
