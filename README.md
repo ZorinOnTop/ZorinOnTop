@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Hej, nazywam się 6un4i6ht3r! 😀</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+everyone!;I'm+6un4i6ht3r.;Python+Developer;HTML+Developer;Love+play+games." alt="Napis" />
 </p>
 
 <p align="center">
