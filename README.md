@@ -13,4 +13,3 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simswaper&layout=compact" alt="Top Langs" width="300"/>
     </td>
   </tr>
-</table>
