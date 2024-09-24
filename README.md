@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/nw1H8KF/image.png" alt="Pasek" />
-</p>
+
 
 
 <p align="center">
