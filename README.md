@@ -7,10 +7,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=simswaper&show_icons=true&theme=radical&locale=pl" alt="GitHub Stats" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=simswaper&show_icons=true&locale=pl" alt="GitHub Stats" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simswaper&layout=compact&theme=radical" alt="Top Langs" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simswaper&layout=compact" alt="Top Langs" width="300"/>
     </td>
   </tr>
 </table>
