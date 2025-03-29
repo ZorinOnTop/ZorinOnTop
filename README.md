@@ -2,4 +2,4 @@
 
 ![zorin](https://github.com/simswaper/simswaper/blob/main/idonthavelifeok.png)
 
-Głownie swoje programy piszę w **Python**'ie. Aktualnie nie pracuje w żadnej firmie jako Programista/IT.
+My name is Adam, I'm 13 years old, and I live in Łomża, Poland. I mainly write programs in **Python**.
