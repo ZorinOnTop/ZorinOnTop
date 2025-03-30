@@ -5,7 +5,7 @@
 My name is Adam, I'm 13 years old, and I live in Łomża, Poland. I mainly write programs in **Python**. I'm interested in **OSINT**, **privacy** and **bug hunting**.
 
 <div align="center">
-  <a href="https://steamcommunity.com/id/zorinos">steam</a>
+  <a href="https://steamcommunity.com/id/zorinos">steam</a> | <a href="https://tryhackme.com/p/zorinontop">tryhackme</a> | <a href="https://zorin.lol">my website</a>
 </div>
 <br>
 
