@@ -1,7 +1,3 @@
-> [!IMPORTANT]  
-> W dniu 01.05.2025 zmieniam główny klucz PGP. W tym dniu, będzie używany nowy klucz do kanarka oraz do kontaktów e-mail.
-> Awaryjny klucz nie będzie zmieniany (posiadam jeszcze plik pgp na Tails OS).
-
 # Hello! 👋
 
 ![zorin](https://github.com/ZorinOnTop/ZorinOnTop/blob/main/idonthavelifeok.png)
