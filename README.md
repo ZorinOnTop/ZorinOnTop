@@ -6,6 +6,7 @@ My name is Adam, I'm 13 years old, and I live in Łomża, Poland. I mainly write
 
 <div align="center">
   <i>thanks school for being doxxed <3</i>
+  <br>
   <i>quited from discord, only using signal and telegram</i>
 </div>
 
